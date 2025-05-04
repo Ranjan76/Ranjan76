@@ -19,15 +19,17 @@
 
 ## 🧰 Toolset
 
-| Category          | Tools & Technologies                                                                 |
-|-------------------|---------------------------------------------------------------------------------------|
-| CI/CD             | Jenkins                                                                              |
-| Containers        | Docker, Kubernetes                                                                   |
-| IaC & Automation  | Terraform, Ansible, Bash                                                              |
-| Cloud             | AWS (EC2, S3, IAM, VPC)                                                               |
-| Monitoring        | Nagios                                                                                |
-| Version Control   | Git, GitHub                                                                           |
-| OS & Shell        | Linux (Ubuntu/CentOS), Bash                                                           |
+<p align="center">
+  <img src="https://img.shields.io/badge/-Jenkins-DF9C26?logo=jenkins&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Terraform-7D4A3A?logo=terraform&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-AWS-FF9900?logo=aws&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Nagios-000000?logo=nagios&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=flat" />
+</p>
 
 ---
 
@@ -49,19 +51,9 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ranjan76&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ranjan76&layout=compact&theme=radical" alt="Top Languages" />
-</p>
-
----
-
 ## 📫 Let's Connect
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🔗 [LinkedIn](www.linkedin.com/in/ranjan-kumar-227369193)  
 📁 [GitHub Portfolio](https://github.com/Ranjan76)
 
 ---
