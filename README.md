@@ -27,7 +27,6 @@
   <img src="https://img.shields.io/badge/-Ansible-EE0000?logo=ansible&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-AWS-FF9900?logo=aws&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Nagios-000000?logo=nagios&logoColor=white&style=flat" />
-  <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" />
   <img src="https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=white&style=flat" />
 </p>
 
@@ -53,14 +52,9 @@
 
 ## 📫 Let's Connect
 
-🔗 [LinkedIn](www.linkedin.com/in/ranjan-kumar-227369193)  
+🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 📁 [GitHub Portfolio](https://github.com/Ranjan76)
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ranjan76&label=Profile+Views&color=blue&style=flat" alt="Visitor Badge" />
-</p>
-
 > “Move fast, automate everything, and keep it reliable.”
-
