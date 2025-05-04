@@ -52,7 +52,7 @@
 
 ## 📫 Let's Connect
 
-🔗 [LinkedIn](https://www.linkedin.com/in/your-profile)  
+🔗 [LinkedIn](www.linkedin.com/in/ranjan-kumar-227369193)  
 📁 [GitHub Portfolio](https://github.com/Ranjan76)
 
 ---
